@@ -12,7 +12,7 @@ I specialise in CSS, HTML, JAVA, which connects with Minecraft and allows me to 
 ### Contact with me
 You can contact with me by my [Discord](https://discord.com/users/364155024416309258) - Click on the link!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/406761556123189248?theme=dark&animated=true&hideDiscrim=false&showDisplayName=false&borderRadius=5px)](https://discord.com/users/364155024416309258)
+[![Discord Presence](https://lanyard.cnrad.dev/api/364155024416309258?theme=dark&animated=true&hideDiscrim=false&showDisplayName=false&borderRadius=5px)](https://discord.com/users/364155024416309258)
 
 ### Projects I'm working on
 
