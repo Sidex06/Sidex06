@@ -1,6 +1,6 @@
 # Hi, I'm SideX
 
-<img src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoding&psig=AOvVaw3HO8xZ6n1fyK-tF3CpirmQ&ust=1722139505702000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOD3puOrxocDFQAAAAAdAAAAABAd]">
+<img src="https://cdn.discordapp.com/attachments/859855697511579648/1266608134592659456/logo.png?ex=66a5c43f&is=66a472bf&hm=17a87d9dbe5d1353df1823d4d0cde5703bb34132be680208ed4e3295fe67791f&">
 
 ## 👦 About Me
 
