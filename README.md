@@ -1,6 +1,6 @@
 # Hi, I'm SideX
 
-<img src="https://i.imgur.com/HLknE8y.png">
+<img src="[https://i.imgur.com/HLknE8y.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.wallpaperflare.com%2Fsearch%3Fwallpaper%3Dcoding&psig=AOvVaw3HO8xZ6n1fyK-tF3CpirmQ&ust=1722139505702000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOD3puOrxocDFQAAAAAdAAAAABAd)">
 
 ## 👦 About Me
 
