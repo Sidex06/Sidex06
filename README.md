@@ -6,7 +6,7 @@
 
 👋 Hi there
 
-My name is Dominik, I am a beta tester in FTB and small web and java Developer. <br>
+My name is Dominik, I am a small web and java Developer. <br>
 I specialise in CSS, HTML, JAVA, which connects with Minecraft and allows me to code a variety of different resources. I'm also familiar with Javascript and MySQL. I'm also learning Python.
 
 ### Contact with me
