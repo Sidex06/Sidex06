@@ -1,42 +1,76 @@
-# Hi, I'm SideX
+<h1 align="center">Hi, I'm SideX 👋</h1>
 
-<img src="https://cdn.discordapp.com/attachments/859855697511579648/1266608134592659456/logo.png?ex=66a5c43f&is=66a472bf&hm=17a87d9dbe5d1353df1823d4d0cde5703bb34132be680208ed4e3295fe67791f&">
+<h3 align="center">
+Software Developer • Minecraft Infrastructure Enthusiast • Automation Builder
+</h3>
 
-## 👦 About Me
+---
 
-👋 Hi there
+## 🚀 About Me
 
-My name is Dominik, I am a small web and java Developer. <br>
-I specialise in CSS, HTML, JAVA, which connects with Minecraft and allows me to code a variety of different resources. I'm also familiar with Javascript and MySQL. I'm also learning Python.
+I'm a developer focused on building modern desktop applications, automation tools and management systems.
 
-### Contact with me
-You can contact with me by my [Discord](https://discord.com/users/364155024416309258) - Click on the link!
+My interests include:
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/364155024416309258?theme=dark&animated=true&hideDiscrim=false&showDisplayName=false&borderRadius=5px)](https://discord.com/users/364155024416309258)
+- 🖥 Desktop Application Development
+- ⚡ Automation & Tooling
+- 🎮 Minecraft Infrastructure
+- 🌐 Backend Systems
+- 🦀 Rust
+- ⚛ React
+- 🔷 TypeScript
+- ☕ Java
 
-### Projects I'm working on
+---
 
+## 🛠 Technologies
 
+### Languages
 
-<div align="center">
-<a href="https://discord.com/users/406761556123189248" target="_blank">
-   <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/364155024416309258)](https://discord.com/users/364155024416309258)?theme=black&bg=1E2D35&animated=true&hideDiscrim=false&borderRadius=5px">
-</a>
-</div>
+![Java](https://img.shields.io/badge/B00?style=for-the-badge&logo=openjdk&logoColor=white
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescriptte
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1e-badge&logo=javascript&logoColor=black
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&t&logoColor=white
 
-## &#x1f4c8; GitHub Stats
+### Frontend
 
-<a href="https://github.com/Sidex06">
-  <img align="center" style="margin:0.5rem; border-radius:2px" src="https://github-readme-stats.vercel.app/api?username=Sidex06&count_private=true&show_icons=true&line_height=28&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3ea1fc&bg_color=171717" alt="Centurion360's GitHub Stats" />
-</a>
+![React](https://img.shields.io/badge/React-20232A?stylebadge&logo=react&logoColor=61DAFB
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for=tailwindcss&logoColor=white
 
-## 💼 Skills
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=MySQL&logoColor=white&color=3ea1fc)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=3ea1fc)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=HTML5&logoColor=white&color=3ea1fc)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=CSS3&logoColor=white&color=3ea1fc)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=3ea1fc)
+### Backend & Database
 
-## 🔎 Github views
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white(https://img.shields.io/badge/SQLiteyle=for-the-badge&logo=sqlite&logoColor=white
+![MySQL](https://img.shields.io/badge/MySQL-005Cfor-the-badge&logo=mysql&logoColor=white
 
-![](https://komarev.com/ghpvc/?username=Sidex06&color=3ea1fc)
+---
+
+## 🔨 Currently Working On
+
+I enjoy creating desktop software, automation tools and infrastructure-focused projects.
+
+Most of my active work is private and not publicly available.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TWOJ_NICK&show_icons=true& height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWOJ_NICK&layoutht
+</p>
+
+---
+
+## 🌍 Connect With Me
+
+- Discord: **SideX**
+- GitHub: **@SideX06**
+
+---
+
+## 💡 Philosophy
+
+> Build useful tools.
+>
+> Automate repetitive work.
+>
+> Keep learning.
